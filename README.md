@@ -1,6 +1,6 @@
 #〈rich〉helloWorld,👋 meet〈/rich〉
+![codingGif](https://user-images.githubusercontent.com/64165035/159188995-0d8a81b8-45aa-466b-ad2a-75cb23a2483a.gif)
 
-   <img width="540" height="250" alt="Screen Shot 2022-03-08 at 10 24 14 PM" src="https://user-images.githubusercontent.com/64165035/157319020-2e3d8e30-ba7b-41c9-b986-4578baa0d16f.png">
 
 
 ## My Stats
