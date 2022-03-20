@@ -1,7 +1,7 @@
 〈rich〉helloWorld,👋 meet〈/rich〉
 
 
-![codingGif](https://user-images.githubusercontent.com/64165035/159188995-0d8a81b8-45aa-466b-ad2a-75cb23a2483a.gif)
+![codingGif2](https://user-images.githubusercontent.com/64165035/159189103-21687e09-0c04-4226-b0e1-2e3c157de352.gif)
 
 
 
