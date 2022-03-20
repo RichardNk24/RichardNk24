@@ -6,4 +6,4 @@
 
 
 ## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichardNk24&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichardNk24&theme=tokyonight)
