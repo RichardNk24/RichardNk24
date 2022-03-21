@@ -1,4 +1,4 @@
-##  helloWorld,👋 meet〈/rich〉
+##  helloGlobe,👋 
 
 ## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichardNk24&theme=tokyonight)
