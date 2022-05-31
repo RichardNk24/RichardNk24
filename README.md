@@ -10,4 +10,7 @@
 
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
+<img alt="Python" src="https://img.shields.io/badge/java-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white" />
+
+
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
