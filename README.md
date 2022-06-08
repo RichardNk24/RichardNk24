@@ -4,7 +4,7 @@
 
 <img align="letf" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardNk24&theme=tokyonight&layout=compact" />
 
-## My stack ✔︎
+## My stack ☆
 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 
