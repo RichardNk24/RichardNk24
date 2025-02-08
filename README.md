@@ -1,9 +1,4 @@
 #  helloGlobe 👋 
- 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RichardNk24&theme=tokyonight" />
-
-<img align="letf" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardNk24&theme=tokyonight&layout=compact" />
-
 ## My stack ★
 <p>Just a passionate tech guy</p>
 <h2>🚀 Languages and Tools I Use</h2>
