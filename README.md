@@ -1,7 +1,7 @@
 # Hi there, I'm Richard 👋 
 
 ### Senior Full Stack Engineer & Head of Engineering
-*Architecting scalable solutions, optimizing logistics, and driving tech innovation in the DRC.*
+*Architecting scalable solutions, optimizing logistics, and driving tech innovation in the DRC, France, USA, Portugal, Spain and Australia .*
 
 ---
 
