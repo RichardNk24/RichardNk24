@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> • 
-  <a href="mailto:your-email@example.com">Email</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="https://linkedin.com/in/richardnkulu">LinkedIn</a> • 
+  <a href="mailto:richard@richardnkulu.com">Email</a> •
+  <a href="https://richardnkulu.com">Portfolio</a>
 </p>
