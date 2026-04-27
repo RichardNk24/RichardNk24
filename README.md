@@ -7,10 +7,10 @@
 
 ## ⚡ About Me
 - 🔭 **Currently Building:** [Malisho](https://github.com/your-link) – A SaaS infrastructure for wholesale procurement.
-- 🏗️ **Core Expertise:** Specialized in **Procurement & Logistics** software (ProcureFlow, Elephant Trade).
-- 📱 **Impact:** Developer of **Pepo Bêta**, a mobility solution tailored for the Kinshasa market.
+- 🏗️ **Core Expertise:** Specialized in **Procurement & Logistics** software (Approstep).
+- 📱 **Impact:** Developer of **Pepo Bêta**, a mobility solution tailored for the DRC market.
 - 🎯 **Focus:** System architecture, Clean Code (NestJS/Prisma), and high-performance scalability.
-- 🧠 **Interests:** History, Philosophy (Plato, Spinoza), and Space Exploration (Artemis II mission).
+- 🧠 **Interests:** History, Philosophy (Plato, Spinoza), and Space Exploration.
 
 ---
 
