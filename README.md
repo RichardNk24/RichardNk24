@@ -6,7 +6,7 @@
 ---
 
 ## ⚡ About Me
-- 🔭 **Currently Building:** [Zentra](https://github.com/zentra-application) – An intelligent enterprise infrastructure for procurement, workflow automation, and scalable business operations.
+- 🔭 **Currently Building:** [Merite](https://merite.io) – An intelligent enterprise infrastructure for procurement, workflow automation, and scalable business operations.
 - 🏗️ **Core Expertise:** Specialized in **Procurement & Logistics** software (Approstep).
 - 📱 **Impact:** Developer of **Pepo Bêta**, a mobility solution tailored for the DRC market.
 - 🎯 **Focus:** System architecture, Clean Code (NestJS/Prisma), and high-performance scalability.
