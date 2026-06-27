@@ -7,9 +7,9 @@
 
 ## ⚡ About Me
 - 🔭 **Currently Building:** [Merite](https://merite.io) – An intelligent enterprise infrastructure for procurement, workflow automation, and scalable business operations.
-- 🏗️ **Core Expertise:** Specialized in **Procurement & Logistics** software (Approstep).
+- 🏗️ **Core Expertise:** Specialized in **Procurement & Logistics** software (Merite, Approstep).
 - 📱 **Impact:** Developer of **Pepo Bêta**, a mobility solution tailored for the DRC market.
-- 🎯 **Focus:** System architecture, Clean Code (NestJS/Prisma), and high-performance scalability.
+- 🎯 **Focus:** System architecture, Clean Code (NestJS/Prisma), and high-performance scalability on apps users by 10M+ users.
 - 🧠 **Interests:** History, Philosophy (Plato, Spinoza), and Space Exploration.
 
 ---
