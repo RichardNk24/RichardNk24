@@ -4,7 +4,7 @@
 
 I design and build **scalable software systems, AI-powered platforms, and enterprise infrastructure**, with a strong focus on backend architecture, distributed systems, procurement, logistics, and operational software.
 
-My work spans **Python, FastAPI, TypeScript, NestJS, PostgreSQL, Redis, distributed architectures, cloud infrastructure, and modern AI systems**.
+My work spans **Python, FastAPI, TypeScript, NestJS, Go, PostgreSQL, Redis, distributed architectures, cloud infrastructure, and modern AI systems**.
 
 🌍 Building technology across the **DRC, Europe, North America, and Australia**.
 
